@@ -20,7 +20,7 @@ import scratchapi
 
 session = scratchapi.login("username", "password")
 
-user = scratchapi.get_current_user()
+user = session.get_current_user()
 print("Follower count:", user.get_follower_count())
 print("Following count:", user.get_following_count())
 print("Project cout:", user.get_project_count())
