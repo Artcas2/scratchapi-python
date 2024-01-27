@@ -1,6 +1,6 @@
 # scratchapi-python
 
-[![PyPI - Version](https://img.shields.io/pypi/v/scratchapi-python)](https://pypi.org/scratchapi-python/)
+[![PyPI - Version](https://img.shields.io/pypi/v/scratchapi-python)](https://pypi.org/project/scratchapi-python/)
 [![GitHub Release](https://img.shields.io/github/v/release/Artcas2/scratchapi-python)](https://github.com/Artcas2/scratchapi-python/releases/latest)
 [![GitHub License](https://img.shields.io/github/license/Artcas2/scratchapi-python)](https://github.com/Artcas2/scratchapi-python/blob/main/LICENSE)
 
